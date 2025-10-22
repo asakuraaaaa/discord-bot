@@ -3,7 +3,7 @@ from discord import app_commands
 import json
 import os
 import time
-import audioop_lts as audioop
+import audioop-lts as audioop
 
 
 TOKEN = os.getenv("DISCORD_TOKEN")
